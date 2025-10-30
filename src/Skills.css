@@ -1,0 +1,33 @@
+.skills-section {
+  text-align: center;
+  padding: 80px 20px;
+  background: #fff7f0;
+}
+
+.skills-section h2 {
+  color: #ff914d;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}
+
+.skills-grid span {
+  background: #ffe5d1;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.skills-grid span:hover {
+  background: #ff914d;
+  color: #fff;
+  transform: scale(1.05);
+}

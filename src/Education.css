@@ -1,0 +1,25 @@
+.education-section {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #fffaf6;
+}
+
+.education-section h2 {
+  color: #ff914d;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.edu-card {
+  background: #fff;
+  border-radius: 15px;
+  padding: 25px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.edu-card h3 {
+  color: #333;
+  margin-bottom: 10px;
+}

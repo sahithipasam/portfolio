@@ -1,0 +1,13 @@
+/* 👣 Footer */
+footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #777;
+  background: transparent;
+  padding: 20px;
+}
+.footer a {
+  color: #ff8c42;
+  text-decoration: none;
+}
