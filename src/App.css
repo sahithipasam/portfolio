@@ -107,8 +107,13 @@ section {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 50px 20px;
+  padding: 40px 15px; /* decreased */
+  margin-bottom: 0; /* ensures no extra gap */
 }
+section + section {
+  margin-top: -90px; /* pulls sections slightly closer */
+}
+
 
 /* 🧱 Projects Grid */
 .projects-grid {

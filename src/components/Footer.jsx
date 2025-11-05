@@ -3,7 +3,7 @@ import "../Footer.css";
 
 const Footer = () => (
   <footer className="footer">
-    <p>© {new Date().getFullYear()} Princess Portfolio | Made with ❤️ using React</p>
+    <p>© {new Date().getFullYear()}  Portfolio | Made using React</p>
   </footer>
 );
 

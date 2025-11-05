@@ -10,7 +10,7 @@ const Landing = () => {
           src="https://shorturl.at/WKiCQ"
           alt="Sahithi Avatar"
         />
-        <h1>Hello, I’m Sahithi 👋</h1>
+        <h1>Hello, I’m Sahithi </h1>
         <p>
           I’m a passionate developer who loves building elegant and creative web
           experiences. Welcome to my portfolio — where design meets innovation!
